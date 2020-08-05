@@ -1,0 +1,1 @@
+This is Naekit's first git project
